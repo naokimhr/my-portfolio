@@ -9,7 +9,7 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - 201803.Resume.Naoki.Mihara.pdf
+    - 201805.Resume.Naoki.Mihara.pdf
     - styles/main.css
     - images/*
     - dist/bundle.js

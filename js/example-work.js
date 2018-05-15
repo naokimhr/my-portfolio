@@ -38,4 +38,5 @@ class ExampleWorkBubble extends React.Component {
     )
   }
 }
-export default ExampleWork
+export default ExampleWork;
+export { ExampleWorkBubble };

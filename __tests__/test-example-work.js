@@ -53,4 +53,5 @@ describe("ExampleWorkBubble component", () => {
     expect(images.prop('src')).toEqual(myWork[1].image.src);
 
   });
+
 });
